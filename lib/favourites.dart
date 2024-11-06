@@ -179,6 +179,7 @@ class Favourites extends StatelessWidget {
                     const Text(
                       "Yahoo",
                       style: TextStyle(
+              //fontweight change#
                           fontFamily: "Font1", fontWeight: FontWeight.w500),
                     )
                   ],
